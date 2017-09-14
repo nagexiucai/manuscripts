@@ -49,22 +49,22 @@
 - [环境搭建](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/子丑寅卯/环境搭建.md "环境搭建")
 - [初体验](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/子丑寅卯/初体验.md "初体验")
 - [原则](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/子丑寅卯/原则.md "原则")
-### 背诵默写 ###
-- 类
+### [背诵默写](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写 "背诵默写") ###
+- [类](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/类.md "类")
   - 无规矩不成方圆
-- 对象
+- [对象](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/对象.md "对象")
   - 就这一坨
-- 数字
+- [数字](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/数字.md "数字")
   - 自然数
   - 分数
-- 文本
+- [文本](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/文本.md "文本")
   - 字符串
   - 编解码
-- 容器
+- [容器](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/容器.md "容器")
   - 列表和元组
   - 字典
   - 集合
-- 函数
+- [函数](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/函数.md "函数")
   - 内置
   - 自定义
 ### 啥猫腻儿 ###
