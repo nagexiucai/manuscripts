@@ -41,6 +41,7 @@
 - [链接](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义.md "本书")表示用参考
 - 代码会有明确段落
 - 缩进表达所属关系
+- 编号不会超过十六（否则划分不规范）
 
 # 目录 #
 ---
