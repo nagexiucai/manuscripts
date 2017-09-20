@@ -12,7 +12,7 @@
 
 - 第三卷：WSGI、Web框架和Tornado。
 
-需要强调的是，**本书面向Python初学者**！
+需要强调的是，**本书面向Python初学者**！不涉及解释器和字节码、对象的内存结构、运行时垃圾回收、多任务调度原理等话题，就是“把Python当作机器的原生语言来用”。
 
 知识的获取是不断迭代的，很多同样的主题会在不同的章节（甚至在以后可能出现的提高专题篇中）重复出现、内容重点却是阶梯式上升的！对于有经验的朋友，把某些章节的某个主题单独拿出来看，确实是不完善，甚至是偏颇的，因为有些事情这个时候还不宜展开讲。大家回想自己求知的路径：小学数学主要是限于自然数范畴，并不能一下子将整个数集暴露给天真的孩子。
 
@@ -47,20 +47,21 @@
 ---
 ## [第一卷](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/第一卷.md "卷一") ##
 ### [自曝家事](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/自曝家事 "自曝家事") ###
-- [缘起](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/自曝家事/缘起.md "缘起")
-- [资源](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/自曝家事/资源.md "资源")
-- [展望](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/自曝家事/展望.md "展望")
+- [缘起](./Python半深入讲义/自曝家事/缘起.md "缘起")
+- [资源](./Python半深入讲义/自曝家事/资源.md "资源")
+- [展望](./Python半深入讲义/自曝家事/展望.md "展望")
 ### [子丑寅卯](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/子丑寅卯 "子丑寅卯") ###
-- [环境搭建](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/子丑寅卯/环境搭建.md "环境搭建")
-- [初体验](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/子丑寅卯/初体验.md "初体验")
-- [原则](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/子丑寅卯/原则.md "原则")
+- [环境搭建](./Python半深入讲义/子丑寅卯/环境搭建.md "环境搭建")
+- [初体验](./Python半深入讲义/子丑寅卯/初体验.md "初体验")
+- [原则](./Python半深入讲义/子丑寅卯/原则.md "原则")
 ### [背诵默写](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写 "背诵默写") ###
-- [类](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/类.md "类")
-- [对象](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/对象.md "对象")
-- [数字](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/数字.md "数字")
-- [文本](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/文本.md "文本")
-- [容器](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/容器.md "容器")
-- [函数](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写/函数.md "函数")
+- [类](./Python半深入讲义/背诵默写/类.md "类")
+- [实例](./Python半深入讲义/背诵默写/实例.md "实例")
+- [对象](./Python半深入讲义/背诵默写/对象.md "对象")
+- [数字](./Python半深入讲义/背诵默写/数字.md "数字")
+- [文本](./Python半深入讲义/背诵默写/文本.md "文本")
+- [容器](./Python半深入讲义/背诵默写/容器.md "容器")
+- [函数](./Python半深入讲义/背诵默写/函数.md "函数")
 ### 啥猫腻儿 ###
 - 操作平台
 - 解释系统
