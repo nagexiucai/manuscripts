@@ -18,11 +18,11 @@
 
 做三卷安排，主要考虑到：
 
-- 不精通基本语法、不熟悉标准库、不了解软件工程中常用的设计模式，就不能高效地驾驭Python这门语言、就不能体会Python动态特性的精髓、就不能写出高内聚低耦合的代码；由于Python本身接近自然语言的特性，甚至让很多略懂英文而没有任何计算机编程基础的新手通过几天甚至数小时的学习，就认为已经达到可以参与到实战项目的开发中，岂不知写出的代码维护难度极大，工作过程中碰到一些基础问题就无从下手，只能借助搜索引擎、然后复制粘贴。笔者将这部分内容，融入“[HowtoPython](https://github.com/nagexiucai/howtopython "HowtoPython")”项目中。
+- 不精通基本语法、不熟悉标准库、不了解软件工程中常用的设计模式，就不能高效地驾驭Python这门语言、就不能体会Python动态特性的精髓、就不能写出高内聚低耦合的代码；由于Python本身接近自然语言的特性，甚至让很多略懂英文而没有任何计算机编程基础的新手通过几天甚至数小时的学习，就认为已经达到可以参与到实战项目的开发中，岂不知写出的代码维护难度极大，工作过程中碰到一些基础问题就无从下手，只能借助搜索引擎、然后复制粘贴。笔者将这部分内容，融入“[HowtoPython](/nagexiucai/howtopython "HowtoPython")”项目中。
 
-- 不懂包管理就不能拥抱浩瀚且强大的Python第三方库、就不能收到事半功倍的效果。这部分笔者将通过实现一个可用的插件化桌面工具“[FeiYang](https://github.com/nagexiucai/feiyang "FeiYang")”来阐述，并最终打包发布到Windows平台上，进一步夯实Python基础。
+- 不懂包管理就不能拥抱浩瀚且强大的Python第三方库、就不能收到事半功倍的效果。这部分笔者将通过实现一个可用的插件化桌面工具“[FeiYang](/nagexiucai/feiyang "FeiYang")”来阐述，并最终打包发布到Windows平台上，进一步夯实Python基础。
 
-- 不会用Python开发Web，一定是有志于用Python改变世界者最重要的缺憾。笔者选择时下流行的框架实现个人博客“[Vast](https://github.com/nagexiucai/vast "Vast")”，引导大家理解Web原理。
+- 不会用Python开发Web，一定是有志于用Python改变世界者最重要的缺憾。笔者选择时下流行的框架实现个人博客“[Vast](/nagexiucai/vast "Vast")”，引导大家理解Web原理。
 
 掌握好上述内容，就算是入门了。
 
@@ -38,7 +38,7 @@
 ---
 - **粗体**表示是重点
 - *斜体*表示有内涵
-- [链接](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义.md "本书")表示用参考
+- [链接](./Python半深入讲义.md "本书")表示用参考
 - 代码会有明确段落
 - 缩进表达所属关系
 - 编号不会超过十六（否则划分不规范）
@@ -50,16 +50,16 @@
 
 # 目录 #
 ---
-## [第一卷](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/第一卷.md "卷一") ##
-### [自曝家事](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/自曝家事 "自曝家事") ###
+## [第一卷](./Python半深入讲义/第一卷.md "卷一") ##
+### [自曝家事](./Python半深入讲义/自曝家事 "自曝家事") ###
 - [缘起](./Python半深入讲义/自曝家事/缘起.md "缘起")
 - [资源](./Python半深入讲义/自曝家事/资源.md "资源")
 - [展望](./Python半深入讲义/自曝家事/展望.md "展望")
-### [子丑寅卯](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/子丑寅卯 "子丑寅卯") ###
+### [子丑寅卯](./Python半深入讲义/子丑寅卯 "子丑寅卯") ###
 - [环境搭建](./Python半深入讲义/子丑寅卯/环境搭建.md "环境搭建")
 - [初体验](./Python半深入讲义/子丑寅卯/初体验.md "初体验")
 - [原则](./Python半深入讲义/子丑寅卯/原则.md "原则")
-### [背诵默写](https://github.com/nagexiucai/manuscripts/blob/master/Python半深入讲义/背诵默写 "背诵默写") ###
+### [背诵默写](./Python半深入讲义/背诵默写 "背诵默写") ###
 - [类](./Python半深入讲义/背诵默写/类.md "类")
 - [实例](./Python半深入讲义/背诵默写/实例.md "实例")
 - [对象](./Python半深入讲义/背诵默写/对象.md "对象")
