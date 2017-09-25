@@ -48,6 +48,8 @@
 - 深入的刚刚好
 - 不只是Python基础
 
+鉴于中国大陆的网络状况，特别将本书及相关项目在[GitCafe](https://git.coding.net/nagexiucai/handouts-for-python-beginners.git "gitcafe.com")上整理成镜像，叫做handouts-for-python-beginners（Python初学者册子）。
+
 # 目录 #
 ---
 ## [第一卷](./Python半深入讲义/第一卷.md "卷一") ##
