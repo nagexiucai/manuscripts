@@ -1,8 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 160 170">
-    <ellipse cx="48" cy="50" rx="28" ry="24" />
-    <ellipse cx="119" cy="50" rx="24" ry="18" />
-    <path d="M22 49 S-15 101 28 127" stroke-width="4" fill="none" stroke="black" />
-    <path d="M141 49 S171 89 137 108" stroke-width="3" fill="none" stroke="black" />
-    <text x="20" y="147" font-family="sans-serif" font-size="20">NAGEXIUCAI</text>
-    <!--text x="20" y="147" font-family="Verdana" font-size="23">nagexiucai</text-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 179 159">
+    <defs>
+        <g id="secret">
+            <ellipse cx="48" cy="24" rx="28" ry="24" />
+            <path d="M22 29 S-11 77 28 111" stroke-width="4" fill="none" stroke="black" />
+        </g>
+        <g id="A">
+            <path d="M0 17 L0 0 16 0 16 17 M0 8 L16 8" fill="none" stroke="black" stroke-width="2" />
+        </g>
+        <g id="C">
+            <path d="M16 0 L0 0 0 16 16 16" fill="none" stroke="black" stroke-width="2" />
+        </g>
+        <g id="E">
+            <path d="M16 0 L0 0 0 16 16 16 M0 8 L16 8" fill="none" stroke="black" stroke-width="2" />
+        </g>
+        <g id="G">
+            <path d="M17 0 L0 0 0 16 16 16 16 8 8 8" fill="none" stroke="black" stroke-width="2" />
+        </g>
+        <g id="I">
+            <path d="M8 -1 L8 17" fill="none" stroke="black" stroke-width="2" />
+        </g>
+        <g id="N">
+            <path d="M0 17 L0 0 16 0 16 17" fill="none" stroke="black" stroke-width="2" />
+        </g>
+        <g id="U">
+            <path d="M0 -1 L0 16 16 16 16 -1" fill="none" stroke="black" stroke-width="2" />
+        </g>
+        <g id="X">
+            <path d="M0 -1 L16 17 M16 -1 0 17" fill="none" stroke="black" stroke-width="2" />
+        </g>
+        <g id="Xplus">
+            <path d="M0 0 C9 5 9 11 0 16 M16 0 C7 5 7 11 16 16" fill="none" stroke="black" stroke-width="3" />
+        </g>
+    </defs>
+    <use xlink:href="#secret" x="13" y="7" />
+    <use xlink:href="#secret" x="-9" y="7" transform="translate(159,13) scale(-0.707,0.707)" />
+    <use xlink:href="#N" x="3" y="128" />
+    <use xlink:href="#A" x="23" y="128" />
+    <use xlink:href="#G" x="43" y="128" />
+    <use xlink:href="#E" x="63" y="128" />
+    <use xlink:href="#Xplus" x="83" y="128" />
+    <use xlink:href="#I" x="98" y="128" />
+    <use xlink:href="#U" x="113" y="128" />
+    <use xlink:href="#C" x="133" y="128" />
+    <use xlink:href="#A" x="153" y="128" />
+    <use xlink:href="#I" x="168" y="128" />
 </svg>
