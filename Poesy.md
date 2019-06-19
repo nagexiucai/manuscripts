@@ -1104,7 +1104,6 @@
 梦里诸多安好。  
 
 ![](./photo/tryst-in-lake-north-of-gaojiacun.release.jpg)
-
 来日回看一生，  
 出入苦海愁城。  
 何不红尘尽早，  
