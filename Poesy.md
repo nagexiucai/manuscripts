@@ -87,6 +87,7 @@
   - [柳叶河赞](#liuyehes-song)
   - [清平乐 · 安](#tryst-in-lake-north-of-gaojiacun)
   - [也言志](#will-copy-tangyin)
+  - [南乡子 · 赠别玄奘](#for-xuanzang)
 
 ---
 
@@ -1135,7 +1136,8 @@
 眉语柳梢和水草，  
 梦里诸多安好。  
 
-![](./photo/tryst-in-lake-north-of-gaojiacun.release.jpg)
+![插图：夜游村北人工湖](./photo/tryst-in-lake-north-of-gaojiacun.release.jpg)
+
 来日回看一生，  
 出入苦海愁城。  
 何不红尘尽早，  
@@ -1150,4 +1152,11 @@
 ## <a id="will-copy-tangyin">也言志</a> ##
 也论金丹也论禅，也为商贾也耕田。  
 专业编写代码卖，不使人间造孽钱。  
+[回到目录](#home)
+
+---
+
+## <a id="for-xuanzang">南乡子 · 赠别玄奘</a> ##
+妖怪不发功，为甚无风莽浪兴。备入莲城作闷声，忠诚？怀抱心思暂勿能。  
+敦厚是沙僧，大圣三杀素骨精。八戒问责帘水洞，逃兵？莫要错怪孙悟空。  
 [回到目录](#home)
